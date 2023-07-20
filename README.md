@@ -18,7 +18,7 @@ Explorer é um programa exclusivo, promovido pela Rocketseat para ensino de tecn
 <br>
 
 <p align="center">
-  <img alt="projeto React.sect" src="./assets/preview.jpg" width="100%">
+  <img alt="projeto React.sect" src="./images/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
