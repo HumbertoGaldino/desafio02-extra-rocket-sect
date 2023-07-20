@@ -2,8 +2,35 @@ body {
     background: #2F2E41;
     margin: 0;
     padding: 0;
+
+    font-family: 'Open Sans', sans-serif;
 }
 
 #container{
     width: 1024px;
+    margin: 0 auto;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding-top: 70px;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    gap: 64px;
+    
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav ul li a {
+    font-family: 'JetBrains Mono', monospace;
+    text-decoration: none;
+    color: #FFF;
 }
